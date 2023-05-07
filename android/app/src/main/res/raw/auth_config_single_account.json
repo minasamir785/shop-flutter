@@ -1,0 +1,17 @@
+{
+    "client_id": "35d21534-092c-4634-989b-efc796139e03",
+    "authorization_user_agent": "DEFAULT",
+    "redirect_uri": "msauth://com.example.shop/4JdqJ6T4PtkTt0af58YEsvvjFxM%3D",
+    "account_mode": "SINGLE",
+    "broker_redirect_uri_registered": true,
+    "shared_device_mode_supported": true,
+    "authorities": [
+      {
+        "type": "ADD",
+        "audience": {
+            "type": "AzureADandPersonalMicrosoftAccount",
+          "tenant_id": "f8cdef31-a31e-4b4a-93e4-5f571e91255a"
+        }
+      }
+    ]
+  }
